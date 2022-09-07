@@ -1,0 +1,41 @@
+html{
+    font-size: 10px;
+    font-family: "lato";
+    max-width: 95%;
+    
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    
+}
+
+p,li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 0.5px;
+}
+
+img{
+    width: 900px;
+    max-width: 80%;
+    align-items: center;
+}
+
+#titular{
+    margin-left: 10%;
+}
+
+#medio{
+    font-weight: bold;
+}
+
+.clase_gris{
+    color: gray;
+}
+body{
+    background-color:beige;
+    width: 95%;
+    align-items: center;
+}
